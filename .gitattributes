@@ -1,5 +1,4 @@
 * text=auto
 *.stl binary
-*.png binary
+*.webp binary
 *.md text eol=lf
-*.py text eol=lf
