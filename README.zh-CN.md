@@ -27,6 +27,6 @@
 
 | 部件 | 文件 | 推荐材料 |
 | --- | --- | --- |
-| 主体 | [面罩支架](stl/cushion_bracket.stl) | 尼龙或 PETG；使用高强度预设和高填充率 |
-| 遮光片 | [左](stl/lightblocker_L.stl) / [右](stl/lightblocker_R.stl) | TPU |
-| 支臂／绑带转接件 | [左](stl/strap_adapter_L.stl) / [右](stl/strap_adapter_R.stl) | TPU |
+| cushion_bracket | [cushion_bracket.stl](stl/cushion_bracket.stl) | 尼龙或 PETG；使用高强度预设和高填充率 |
+| lightblocker | [lightblocker_L.stl](stl/lightblocker_L.stl) / [lightblocker_R.stl](stl/lightblocker_R.stl) | TPU |
+| strap_adapter | [strap_adapter_L.stl](stl/strap_adapter_L.stl) / [strap_adapter_R.stl](stl/strap_adapter_R.stl) | TPU |

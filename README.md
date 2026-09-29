@@ -27,6 +27,6 @@ Print one of each STL. Mirrored left and right parts are included.
 
 | Part | Files | Recommended material |
 | --- | --- | --- |
-| Main body | [Cushion bracket](stl/cushion_bracket.stl) | Nylon or PETG; strong preset and high infill |
-| Lightblockers | [Left](stl/lightblocker_L.stl) / [Right](stl/lightblocker_R.stl) | TPU |
-| Arm / strap adapters | [Left](stl/strap_adapter_L.stl) / [Right](stl/strap_adapter_R.stl) | TPU |
+| cushion_bracket | [cushion_bracket.stl](stl/cushion_bracket.stl) | Nylon or PETG; strong preset and high infill |
+| lightblocker | [lightblocker_L.stl](stl/lightblocker_L.stl) / [lightblocker_R.stl](stl/lightblocker_R.stl) | TPU |
+| strap_adapter | [strap_adapter_L.stl](stl/strap_adapter_L.stl) / [strap_adapter_R.stl](stl/strap_adapter_R.stl) | TPU |

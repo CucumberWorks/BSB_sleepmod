@@ -27,6 +27,6 @@
 
 | パーツ | ファイル | 推奨素材 |
 | --- | --- | --- |
-| 本体 | [クッションブラケット](stl/cushion_bracket.stl) | ナイロンまたは PETG。高強度プリセットと高いインフィル密度を使用 |
-| 遮光パーツ | [左](stl/lightblocker_L.stl) / [右](stl/lightblocker_R.stl) | TPU |
-| アーム／ストラップアダプター | [左](stl/strap_adapter_L.stl) / [右](stl/strap_adapter_R.stl) | TPU |
+| cushion_bracket | [cushion_bracket.stl](stl/cushion_bracket.stl) | ナイロンまたは PETG。高強度プリセットと高いインフィル密度を使用 |
+| lightblocker | [lightblocker_L.stl](stl/lightblocker_L.stl) / [lightblocker_R.stl](stl/lightblocker_R.stl) | TPU |
+| strap_adapter | [strap_adapter_L.stl](stl/strap_adapter_L.stl) / [strap_adapter_R.stl](stl/strap_adapter_R.stl) | TPU |
