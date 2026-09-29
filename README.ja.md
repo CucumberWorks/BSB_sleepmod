@@ -13,8 +13,6 @@
 
 ![Fusion 360 モデルプレビュー](docs/images/fusion-360-preview.png)
 
-[元の投稿](https://x.com/cucumberworks/status/2104484445499887772)
-
 ## 用意するもの
 
 - AMVR 製 Quest 3 用フェイスインターフェース

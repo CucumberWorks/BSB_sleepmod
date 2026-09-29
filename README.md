@@ -13,8 +13,6 @@ A BSB mod designed for maximum sleep comfort:
 
 ![Fusion 360 model preview](docs/images/fusion-360-preview.png)
 
-[Original post](https://x.com/cucumberworks/status/2104484445499887772)
-
 ## What you need
 
 - AMVR facial interface for Quest 3
