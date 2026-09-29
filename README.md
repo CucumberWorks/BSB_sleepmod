@@ -1,6 +1,6 @@
 # BSB Sleep Mod
 
-Designed for maximum sleep comfort. Light blocking is less effective than other solutions.
+A BSB mod designed for maximum sleep comfort. It does not block light as well as other solutions.
 
 ![BSB sleep mod](docs/images/bsb-sleep-mod.webp)
 
@@ -18,10 +18,8 @@ Designed for maximum sleep comfort. Light blocking is less effective than other 
 
 Print one of each STL. Mirrored left and right parts are included.
 
-| Part | Files | Material |
+| Part | Files | Recommended material |
 | --- | --- | --- |
 | Main body | [Cushion bracket](stl/cushion_bracket.stl) | Nylon or PETG; strong preset and high infill |
 | Lightblockers | [Left](stl/lightblocker_L.stl) / [Right](stl/lightblocker_R.stl) | TPU |
 | Arm / strap adapters | [Left](stl/strap_adapter_L.stl) / [Right](stl/strap_adapter_R.stl) | TPU |
-
-Dry-fit the parts and check magnet polarity before gluing. Fit the 25 mm Velcro strap and adjust for comfort.
