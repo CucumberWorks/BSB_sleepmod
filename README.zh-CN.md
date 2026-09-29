@@ -11,6 +11,8 @@
 
 ![BSB 睡眠改装](docs/images/bsb-sleep-mod.webp)
 
+![Fusion 360 模型预览](docs/images/fusion-360-preview.png)
+
 [原帖](https://x.com/cucumberworks/status/2104484445499887772)
 
 ## 所需材料
