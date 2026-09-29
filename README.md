@@ -1,6 +1,11 @@
 # BSB Sleep Mod
 
-A BSB mod designed for maximum sleep comfort. It does not block light as well as other solutions.
+A BSB mod designed for maximum sleep comfort:
+
+- Reduced pressure on your face
+- Washable facial interface
+- 3D-printed mod parts that are easy to replace
+- Excellent ventilation
 
 ![BSB sleep mod](docs/images/bsb-sleep-mod.webp)
 
