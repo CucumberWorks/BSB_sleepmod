@@ -1,5 +1,7 @@
 # BSB Sleep Mod
 
+English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
+
 A BSB mod designed for maximum sleep comfort:
 
 - Reduced pressure on your face
